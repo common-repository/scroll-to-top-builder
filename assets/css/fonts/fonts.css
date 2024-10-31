@@ -1,0 +1,153 @@
+@font-face {
+	font-family: 'arrow1';
+	font-weight: normal;
+	font-style: normal;
+	src: url(arrow1.woff);
+}
+
+@font-face {
+	font-family: 'arrow2';
+	font-weight: normal;
+	font-style: normal;
+	src: url(arrow2.woff);
+}
+
+@font-face {
+	font-family: 'arrow3';
+	font-weight: normal;
+	font-style: normal;
+	src: url(arrow3.woff);
+}
+
+@font-face {
+	font-family: 'arrow4';
+	font-weight: normal;
+	font-style: normal;
+	src: url(arrow4.woff);
+}
+
+@font-face {
+	font-family: 'arrow5';
+	font-weight: normal;
+	font-style: normal;
+	src: url(arrow5.woff);
+}
+
+@font-face {
+	font-family: 'arrow6';
+	font-weight: normal;
+	font-style: normal;
+	src: url(arrow6.woff);
+}
+
+@font-face {
+	font-family: 'arrow7';
+	font-weight: normal;
+	font-style: normal;
+	src: url(arrow7.woff);
+}
+
+@font-face {
+	font-family: 'arrow8';
+	font-weight: normal;
+	font-style: normal;
+	src: url(arrow8.woff);
+}
+
+@font-face {
+	font-family: 'arrow9';
+	font-weight: normal;
+	font-style: normal;
+	src: url(arrow9.woff);
+}
+
+@font-face {
+	font-family: 'arrow10';
+	font-weight: normal;
+	font-style: normal;
+	src: url(arrow10.woff);
+}
+
+@font-face {
+	font-family: 'arrow11';
+	font-weight: normal;
+	font-style: normal;
+	src: url(arrow11.woff);
+}
+
+.ystp-arrow1:before {
+	font-size: 25px;
+	font-family: 'arrow1' !important;
+	content: "\e900";
+	line-height: 100%;
+}
+
+.ystp-arrow2:before {
+	font-size: 25px;
+	font-family: 'arrow2' !important;
+	content: "\ea41";
+	line-height: 100%;
+}
+
+.ystp-arrow3:before {
+	font-size: 25px;
+	font-family: 'arrow3' !important;
+	content: '\e801';
+	line-height: 100%;
+}
+
+.ystp-arrow4:before {
+	font-size: 25px;
+	font-family: 'arrow4' !important;
+	content: '\e800';
+	line-height: 100%;
+}
+
+.ystp-arrow5:before {
+	font-size: 25px;
+	font-family: 'arrow5' !important;
+	content: '\f106';
+	line-height: 100%;
+}
+
+.ystp-arrow6:before {
+	font-size: 25px;
+	font-family: 'arrow6' !important;
+	content: '\f139';
+	line-height: 100%;
+}
+
+.ystp-arrow7:before {
+	font-size: 25px;
+	font-family: 'arrow7' !important;
+	content: '\f176';
+	line-height: 100%;
+}
+
+.ystp-arrow8:before {
+	font-size: 25px;
+	font-family: 'arrow8' !important;
+	content: '\e800';
+	line-height: 100%;
+}
+
+.ystp-arrow9:before {
+	font-size: 25px;
+	font-family: 'arrow9' !important;
+	content: '\e801';
+	line-height: 100%;
+}
+
+.ystp-arrow10:before {
+	font-size: 25px;
+	font-family: 'arrow10' !important;
+	content: '\f151';
+	line-height: 100%;
+}
+
+.ystp-arrow11:before {
+	font-size: 25px;
+	font-family: 'arrow11' !important;
+	content: '\e800';
+	line-height: 100%;
+}
